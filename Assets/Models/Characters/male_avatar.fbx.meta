@@ -1,0 +1,2784 @@
+fileFormatVersion: 2
+guid: eeaaa78aaad32af4caf0286eeb2c4498
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base_neck
+    100002: belly
+    100004: chest
+    100006: head
+    100008: left_ankle
+    100010: left_collarbone
+    100012: left_elbow_A
+    100014: left_elbow_B
+    100016: left_end_feet
+    100018: left_hand
+    100020: left_hips
+    100022: left_index_finger_A
+    100024: left_index_finger_B
+    100026: left_index_finger_C
+    100028: left_index_finger_D
+    100030: left_knee_A
+    100032: left_knee_B
+    100034: left_middle_feet
+    100036: left_middle_finger_A
+    100038: left_middle_finger_B
+    100040: left_middle_finger_C
+    100042: left_middle_finger_D
+    100044: left_pinky_A
+    100046: left_pinky_B
+    100048: left_pinky_C
+    100050: left_pinky_D
+    100052: left_RF_ankle
+    100054: left_RF_end_feet
+    100056: left_RF_heel
+    100058: left_RF_middle_feet
+    100060: left_ring_finger_A
+    100062: left_ring_finger_B
+    100064: left_ring_finger_C
+    100066: left_ring_finger_D
+    100068: left_shoulder
+    100070: left_thumb_A
+    100072: left_thumb_B
+    100074: left_thumb_C
+    100076: left_wrist
+    100078: //RootNode
+    100080: Model_AvatarMale:polySurface100
+    100082: Model_AvatarMale:polySurface101
+    100084: Model_AvatarMale:polySurface102
+    100086: Model_AvatarMale:polySurface103
+    100088: Model_AvatarMale:polySurface104
+    100090: Model_AvatarMale:polySurface105
+    100092: Model_AvatarMale:polySurface106
+    100094: Model_AvatarMale:polySurface107
+    100096: Model_AvatarMale:polySurface108
+    100098: Model_AvatarMale:polySurface109
+    100100: Model_AvatarMale:polySurface110
+    100102: Model_AvatarMale:polySurface111
+    100104: Model_AvatarMale:polySurface112
+    100106: Model_AvatarMale:polySurface113
+    100108: Model_AvatarMale:polySurface113 1
+    100110: Model_AvatarMale:polySurface114
+    100112: Model_AvatarMale:polySurface115
+    100114: Model_AvatarMale:polySurface116
+    100116: Model_AvatarMale:polySurface117
+    100118: Model_AvatarMale:polySurface118
+    100120: Model_AvatarMale:polySurface119
+    100122: Model_AvatarMale:polySurface120
+    100124: Model_AvatarMale:polySurface121
+    100126: Model_AvatarMale:polySurface122
+    100128: Model_AvatarMale:polySurface123
+    100130: Model_AvatarMale:polySurface124
+    100132: Model_AvatarMale:polySurface125
+    100134: Model_AvatarMale:polySurface126
+    100136: Model_AvatarMale:polySurface127
+    100138: Model_AvatarMale:polySurface129
+    100140: Model_AvatarMale:polySurface130
+    100142: Model_AvatarMale:polySurface131
+    100144: Model_AvatarMale:polySurface132
+    100146: Model_AvatarMale:polySurface133
+    100148: Model_AvatarMale:polySurface134
+    100150: Model_AvatarMale:polySurface135
+    100152: Model_AvatarMale:polySurface136
+    100154: Model_AvatarMale:polySurface136 1
+    100156: Model_AvatarMale:polySurface137
+    100158: Model_AvatarMale:polySurface138
+    100160: Model_AvatarMale:polySurface139
+    100162: Model_AvatarMale:polySurface140
+    100164: Model_AvatarMale:polySurface141
+    100166: Model_AvatarMale:polySurface142
+    100168: Model_AvatarMale:polySurface143
+    100170: Model_AvatarMale:polySurface144
+    100172: Model_AvatarMale:polySurface145
+    100174: Model_AvatarMale:polySurface146
+    100176: Model_AvatarMale:polySurface147
+    100178: Model_AvatarMale:polySurface29
+    100180: Model_AvatarMale:polySurface30
+    100182: Model_AvatarMale:polySurface31
+    100184: Model_AvatarMale:polySurface31 1
+    100186: Model_AvatarMale:polySurface32
+    100188: Model_AvatarMale:polySurface32 1
+    100190: Model_AvatarMale:polySurface33
+    100192: Model_AvatarMale:polySurface34
+    100194: Model_AvatarMale:polySurface35
+    100196: Model_AvatarMale:polySurface36
+    100198: Model_AvatarMale:polySurface37
+    100200: Model_AvatarMale:polySurface38
+    100202: Model_AvatarMale:polySurface39
+    100204: Model_AvatarMale:polySurface40
+    100206: Model_AvatarMale:polySurface41
+    100208: Model_AvatarMale:polySurface42
+    100210: Model_AvatarMale:polySurface43
+    100212: Model_AvatarMale:polySurface44
+    100214: Model_AvatarMale:polySurface45
+    100216: Model_AvatarMale:polySurface46
+    100218: Model_AvatarMale:polySurface47
+    100220: Model_AvatarMale:polySurface48
+    100222: Model_AvatarMale:polySurface48 1
+    100224: Model_AvatarMale:polySurface49
+    100226: Model_AvatarMale:polySurface50
+    100228: Model_AvatarMale:polySurface51
+    100230: Model_AvatarMale:polySurface52
+    100232: Model_AvatarMale:polySurface53
+    100234: Model_AvatarMale:polySurface54
+    100236: Model_AvatarMale:polySurface55
+    100238: Model_AvatarMale:polySurface56
+    100240: Model_AvatarMale:polySurface57
+    100242: Model_AvatarMale:polySurface58
+    100244: Model_AvatarMale:polySurface58 1
+    100246: Model_AvatarMale:polySurface59
+    100248: Model_AvatarMale:polySurface60
+    100250: Model_AvatarMale:polySurface61
+    100252: Model_AvatarMale:polySurface62
+    100254: Model_AvatarMale:polySurface63
+    100256: Model_AvatarMale:polySurface64
+    100258: Model_AvatarMale:polySurface65
+    100260: Model_AvatarMale:polySurface66
+    100262: Model_AvatarMale:polySurface67
+    100264: Model_AvatarMale:polySurface68
+    100266: Model_AvatarMale:polySurface69
+    100268: Model_AvatarMale:polySurface70
+    100270: Model_AvatarMale:polySurface71
+    100272: Model_AvatarMale:polySurface72
+    100274: Model_AvatarMale:polySurface73
+    100276: Model_AvatarMale:polySurface74
+    100278: Model_AvatarMale:polySurface75
+    100280: Model_AvatarMale:polySurface76
+    100282: Model_AvatarMale:polySurface77
+    100284: Model_AvatarMale:polySurface78
+    100286: Model_AvatarMale:polySurface79
+    100288: Model_AvatarMale:polySurface80
+    100290: Model_AvatarMale:polySurface81
+    100292: Model_AvatarMale:polySurface82
+    100294: Model_AvatarMale:polySurface83
+    100296: Model_AvatarMale:polySurface84
+    100298: Model_AvatarMale:polySurface85
+    100300: Model_AvatarMale:polySurface86
+    100302: Model_AvatarMale:polySurface87
+    100304: Model_AvatarMale:polySurface88
+    100306: Model_AvatarMale:polySurface94
+    100308: Model_AvatarMale:polySurface95
+    100310: Model_AvatarMale:polySurface96
+    100312: Model_AvatarMale:polySurface96 1
+    100314: Model_AvatarMale:polySurface97
+    100316: Model_AvatarMale:polySurface98
+    100318: Model_AvatarMale:polySurface99
+    100320: Model_AvatarMale:pSphere1
+    100322: Model_AvatarMale:pSphere2
+    100324: Model_AvatarMale:transform100
+    100326: Model_AvatarMale:transform101
+    100328: Model_AvatarMale:transform102
+    100330: Model_AvatarMale:transform103
+    100332: Model_AvatarMale:transform104
+    100334: Model_AvatarMale:transform105
+    100336: Model_AvatarMale:transform106
+    100338: Model_AvatarMale:transform107
+    100340: Model_AvatarMale:transform108
+    100342: Model_AvatarMale:transform109
+    100344: Model_AvatarMale:transform110
+    100346: Model_AvatarMale:transform111
+    100348: Model_AvatarMale:transform112
+    100350: Model_AvatarMale:transform113
+    100352: Model_AvatarMale:transform114
+    100354: Model_AvatarMale:transform115
+    100356: Model_AvatarMale:transform116
+    100358: Model_AvatarMale:transform117
+    100360: Model_AvatarMale:transform118
+    100362: Model_AvatarMale:transform119
+    100364: Model_AvatarMale:transform120
+    100366: Model_AvatarMale:transform121
+    100368: Model_AvatarMale:transform122
+    100370: Model_AvatarMale:transform123
+    100372: Model_AvatarMale:transform124
+    100374: Model_AvatarMale:transform125
+    100376: Model_AvatarMale:transform126
+    100378: Model_AvatarMale:transform127
+    100380: Model_AvatarMale:transform128
+    100382: Model_AvatarMale:transform129
+    100384: Model_AvatarMale:transform13
+    100386: Model_AvatarMale:transform130
+    100388: Model_AvatarMale:transform131
+    100390: Model_AvatarMale:transform132
+    100392: Model_AvatarMale:transform133
+    100394: Model_AvatarMale:transform14
+    100396: Model_AvatarMale:transform15
+    100398: Model_AvatarMale:transform16
+    100400: Model_AvatarMale:transform17
+    100402: Model_AvatarMale:transform18
+    100404: Model_AvatarMale:transform19
+    100406: Model_AvatarMale:transform20
+    100408: Model_AvatarMale:transform21
+    100410: Model_AvatarMale:transform22
+    100412: Model_AvatarMale:transform23
+    100414: Model_AvatarMale:transform24
+    100416: Model_AvatarMale:transform25
+    100418: Model_AvatarMale:transform26
+    100420: Model_AvatarMale:transform27
+    100422: Model_AvatarMale:transform28
+    100424: Model_AvatarMale:transform29
+    100426: Model_AvatarMale:transform30
+    100428: Model_AvatarMale:transform31
+    100430: Model_AvatarMale:transform32
+    100432: Model_AvatarMale:transform33
+    100434: Model_AvatarMale:transform34
+    100436: Model_AvatarMale:transform35
+    100438: Model_AvatarMale:transform36
+    100440: Model_AvatarMale:transform37
+    100442: Model_AvatarMale:transform38
+    100444: Model_AvatarMale:transform39
+    100446: Model_AvatarMale:transform40
+    100448: Model_AvatarMale:transform41
+    100450: Model_AvatarMale:transform42
+    100452: Model_AvatarMale:transform43
+    100454: Model_AvatarMale:transform44
+    100456: Model_AvatarMale:transform45
+    100458: Model_AvatarMale:transform46
+    100460: Model_AvatarMale:transform47
+    100462: Model_AvatarMale:transform48
+    100464: Model_AvatarMale:transform49
+    100466: Model_AvatarMale:transform50
+    100468: Model_AvatarMale:transform51
+    100470: Model_AvatarMale:transform52
+    100472: Model_AvatarMale:transform53
+    100474: Model_AvatarMale:transform54
+    100476: Model_AvatarMale:transform55
+    100478: Model_AvatarMale:transform56
+    100480: Model_AvatarMale:transform57
+    100482: Model_AvatarMale:transform58
+    100484: Model_AvatarMale:transform59
+    100486: Model_AvatarMale:transform60
+    100488: Model_AvatarMale:transform61
+    100490: Model_AvatarMale:transform62
+    100492: Model_AvatarMale:transform63
+    100494: Model_AvatarMale:transform64
+    100496: Model_AvatarMale:transform65
+    100498: Model_AvatarMale:transform66
+    100500: Model_AvatarMale:transform67
+    100502: Model_AvatarMale:transform68
+    100504: Model_AvatarMale:transform69
+    100506: Model_AvatarMale:transform70
+    100508: Model_AvatarMale:transform71
+    100510: Model_AvatarMale:transform72
+    100512: Model_AvatarMale:transform73
+    100514: Model_AvatarMale:transform74
+    100516: Model_AvatarMale:transform75
+    100518: Model_AvatarMale:transform76
+    100520: Model_AvatarMale:transform77
+    100522: Model_AvatarMale:transform78
+    100524: Model_AvatarMale:transform79
+    100526: Model_AvatarMale:transform80
+    100528: Model_AvatarMale:transform81
+    100530: Model_AvatarMale:transform82
+    100532: Model_AvatarMale:transform83
+    100534: Model_AvatarMale:transform84
+    100536: Model_AvatarMale:transform85
+    100538: Model_AvatarMale:transform86
+    100540: Model_AvatarMale:transform87
+    100542: Model_AvatarMale:transform88
+    100544: Model_AvatarMale:transform89
+    100546: Model_AvatarMale:transform90
+    100548: Model_AvatarMale:transform91
+    100550: Model_AvatarMale:transform92
+    100552: Model_AvatarMale:transform93
+    100554: Model_AvatarMale:transform94
+    100556: Model_AvatarMale:transform95
+    100558: Model_AvatarMale:transform96
+    100560: Model_AvatarMale:transform97
+    100562: Model_AvatarMale:transform98
+    100564: Model_AvatarMale:transform99
+    100566: neck
+    100568: right_ankle
+    100570: right_collarbone
+    100572: right_elbow_A
+    100574: right_elbow_B
+    100576: right_end_feet
+    100578: right_hand
+    100580: right_hips
+    100582: right_index_finger_A
+    100584: right_index_finger_B
+    100586: right_index_finger_C
+    100588: right_index_finger_D
+    100590: right_knee_A
+    100592: right_knee_B
+    100594: right_middle_feet
+    100596: right_middle_finger_A
+    100598: right_middle_finger_B
+    100600: right_middle_finger_C
+    100602: right_middle_finger_D
+    100604: right_pinky_A
+    100606: right_pinky_B
+    100608: right_pinky_C
+    100610: right_pinky_D
+    100612: right_RF_ankle
+    100614: right_RF_end_feet
+    100616: right_RF_heel
+    100618: right_RF_middle_feet
+    100620: right_ring_finger_A
+    100622: right_ring_finger_B
+    100624: right_ring_finger_C
+    100626: right_ring_finger_D
+    100628: right_shoulder
+    100630: right_thumb_A
+    100632: right_thumb_B
+    100634: right_thumb_C
+    100636: right_wrist
+    100638: ROOT
+    100640: Skeleton
+    100642: Surface
+    100644: top_neck
+    100646: waist
+    400000: base_neck
+    400002: belly
+    400004: chest
+    400006: head
+    400008: left_ankle
+    400010: left_collarbone
+    400012: left_elbow_A
+    400014: left_elbow_B
+    400016: left_end_feet
+    400018: left_hand
+    400020: left_hips
+    400022: left_index_finger_A
+    400024: left_index_finger_B
+    400026: left_index_finger_C
+    400028: left_index_finger_D
+    400030: left_knee_A
+    400032: left_knee_B
+    400034: left_middle_feet
+    400036: left_middle_finger_A
+    400038: left_middle_finger_B
+    400040: left_middle_finger_C
+    400042: left_middle_finger_D
+    400044: left_pinky_A
+    400046: left_pinky_B
+    400048: left_pinky_C
+    400050: left_pinky_D
+    400052: left_RF_ankle
+    400054: left_RF_end_feet
+    400056: left_RF_heel
+    400058: left_RF_middle_feet
+    400060: left_ring_finger_A
+    400062: left_ring_finger_B
+    400064: left_ring_finger_C
+    400066: left_ring_finger_D
+    400068: left_shoulder
+    400070: left_thumb_A
+    400072: left_thumb_B
+    400074: left_thumb_C
+    400076: left_wrist
+    400078: //RootNode
+    400080: Model_AvatarMale:polySurface100
+    400082: Model_AvatarMale:polySurface101
+    400084: Model_AvatarMale:polySurface102
+    400086: Model_AvatarMale:polySurface103
+    400088: Model_AvatarMale:polySurface104
+    400090: Model_AvatarMale:polySurface105
+    400092: Model_AvatarMale:polySurface106
+    400094: Model_AvatarMale:polySurface107
+    400096: Model_AvatarMale:polySurface108
+    400098: Model_AvatarMale:polySurface109
+    400100: Model_AvatarMale:polySurface110
+    400102: Model_AvatarMale:polySurface111
+    400104: Model_AvatarMale:polySurface112
+    400106: Model_AvatarMale:polySurface113
+    400108: Model_AvatarMale:polySurface113 1
+    400110: Model_AvatarMale:polySurface114
+    400112: Model_AvatarMale:polySurface115
+    400114: Model_AvatarMale:polySurface116
+    400116: Model_AvatarMale:polySurface117
+    400118: Model_AvatarMale:polySurface118
+    400120: Model_AvatarMale:polySurface119
+    400122: Model_AvatarMale:polySurface120
+    400124: Model_AvatarMale:polySurface121
+    400126: Model_AvatarMale:polySurface122
+    400128: Model_AvatarMale:polySurface123
+    400130: Model_AvatarMale:polySurface124
+    400132: Model_AvatarMale:polySurface125
+    400134: Model_AvatarMale:polySurface126
+    400136: Model_AvatarMale:polySurface127
+    400138: Model_AvatarMale:polySurface129
+    400140: Model_AvatarMale:polySurface130
+    400142: Model_AvatarMale:polySurface131
+    400144: Model_AvatarMale:polySurface132
+    400146: Model_AvatarMale:polySurface133
+    400148: Model_AvatarMale:polySurface134
+    400150: Model_AvatarMale:polySurface135
+    400152: Model_AvatarMale:polySurface136
+    400154: Model_AvatarMale:polySurface136 1
+    400156: Model_AvatarMale:polySurface137
+    400158: Model_AvatarMale:polySurface138
+    400160: Model_AvatarMale:polySurface139
+    400162: Model_AvatarMale:polySurface140
+    400164: Model_AvatarMale:polySurface141
+    400166: Model_AvatarMale:polySurface142
+    400168: Model_AvatarMale:polySurface143
+    400170: Model_AvatarMale:polySurface144
+    400172: Model_AvatarMale:polySurface145
+    400174: Model_AvatarMale:polySurface146
+    400176: Model_AvatarMale:polySurface147
+    400178: Model_AvatarMale:polySurface29
+    400180: Model_AvatarMale:polySurface30
+    400182: Model_AvatarMale:polySurface31
+    400184: Model_AvatarMale:polySurface31 1
+    400186: Model_AvatarMale:polySurface32
+    400188: Model_AvatarMale:polySurface32 1
+    400190: Model_AvatarMale:polySurface33
+    400192: Model_AvatarMale:polySurface34
+    400194: Model_AvatarMale:polySurface35
+    400196: Model_AvatarMale:polySurface36
+    400198: Model_AvatarMale:polySurface37
+    400200: Model_AvatarMale:polySurface38
+    400202: Model_AvatarMale:polySurface39
+    400204: Model_AvatarMale:polySurface40
+    400206: Model_AvatarMale:polySurface41
+    400208: Model_AvatarMale:polySurface42
+    400210: Model_AvatarMale:polySurface43
+    400212: Model_AvatarMale:polySurface44
+    400214: Model_AvatarMale:polySurface45
+    400216: Model_AvatarMale:polySurface46
+    400218: Model_AvatarMale:polySurface47
+    400220: Model_AvatarMale:polySurface48
+    400222: Model_AvatarMale:polySurface48 1
+    400224: Model_AvatarMale:polySurface49
+    400226: Model_AvatarMale:polySurface50
+    400228: Model_AvatarMale:polySurface51
+    400230: Model_AvatarMale:polySurface52
+    400232: Model_AvatarMale:polySurface53
+    400234: Model_AvatarMale:polySurface54
+    400236: Model_AvatarMale:polySurface55
+    400238: Model_AvatarMale:polySurface56
+    400240: Model_AvatarMale:polySurface57
+    400242: Model_AvatarMale:polySurface58
+    400244: Model_AvatarMale:polySurface58 1
+    400246: Model_AvatarMale:polySurface59
+    400248: Model_AvatarMale:polySurface60
+    400250: Model_AvatarMale:polySurface61
+    400252: Model_AvatarMale:polySurface62
+    400254: Model_AvatarMale:polySurface63
+    400256: Model_AvatarMale:polySurface64
+    400258: Model_AvatarMale:polySurface65
+    400260: Model_AvatarMale:polySurface66
+    400262: Model_AvatarMale:polySurface67
+    400264: Model_AvatarMale:polySurface68
+    400266: Model_AvatarMale:polySurface69
+    400268: Model_AvatarMale:polySurface70
+    400270: Model_AvatarMale:polySurface71
+    400272: Model_AvatarMale:polySurface72
+    400274: Model_AvatarMale:polySurface73
+    400276: Model_AvatarMale:polySurface74
+    400278: Model_AvatarMale:polySurface75
+    400280: Model_AvatarMale:polySurface76
+    400282: Model_AvatarMale:polySurface77
+    400284: Model_AvatarMale:polySurface78
+    400286: Model_AvatarMale:polySurface79
+    400288: Model_AvatarMale:polySurface80
+    400290: Model_AvatarMale:polySurface81
+    400292: Model_AvatarMale:polySurface82
+    400294: Model_AvatarMale:polySurface83
+    400296: Model_AvatarMale:polySurface84
+    400298: Model_AvatarMale:polySurface85
+    400300: Model_AvatarMale:polySurface86
+    400302: Model_AvatarMale:polySurface87
+    400304: Model_AvatarMale:polySurface88
+    400306: Model_AvatarMale:polySurface94
+    400308: Model_AvatarMale:polySurface95
+    400310: Model_AvatarMale:polySurface96
+    400312: Model_AvatarMale:polySurface96 1
+    400314: Model_AvatarMale:polySurface97
+    400316: Model_AvatarMale:polySurface98
+    400318: Model_AvatarMale:polySurface99
+    400320: Model_AvatarMale:pSphere1
+    400322: Model_AvatarMale:pSphere2
+    400324: Model_AvatarMale:transform100
+    400326: Model_AvatarMale:transform101
+    400328: Model_AvatarMale:transform102
+    400330: Model_AvatarMale:transform103
+    400332: Model_AvatarMale:transform104
+    400334: Model_AvatarMale:transform105
+    400336: Model_AvatarMale:transform106
+    400338: Model_AvatarMale:transform107
+    400340: Model_AvatarMale:transform108
+    400342: Model_AvatarMale:transform109
+    400344: Model_AvatarMale:transform110
+    400346: Model_AvatarMale:transform111
+    400348: Model_AvatarMale:transform112
+    400350: Model_AvatarMale:transform113
+    400352: Model_AvatarMale:transform114
+    400354: Model_AvatarMale:transform115
+    400356: Model_AvatarMale:transform116
+    400358: Model_AvatarMale:transform117
+    400360: Model_AvatarMale:transform118
+    400362: Model_AvatarMale:transform119
+    400364: Model_AvatarMale:transform120
+    400366: Model_AvatarMale:transform121
+    400368: Model_AvatarMale:transform122
+    400370: Model_AvatarMale:transform123
+    400372: Model_AvatarMale:transform124
+    400374: Model_AvatarMale:transform125
+    400376: Model_AvatarMale:transform126
+    400378: Model_AvatarMale:transform127
+    400380: Model_AvatarMale:transform128
+    400382: Model_AvatarMale:transform129
+    400384: Model_AvatarMale:transform13
+    400386: Model_AvatarMale:transform130
+    400388: Model_AvatarMale:transform131
+    400390: Model_AvatarMale:transform132
+    400392: Model_AvatarMale:transform133
+    400394: Model_AvatarMale:transform14
+    400396: Model_AvatarMale:transform15
+    400398: Model_AvatarMale:transform16
+    400400: Model_AvatarMale:transform17
+    400402: Model_AvatarMale:transform18
+    400404: Model_AvatarMale:transform19
+    400406: Model_AvatarMale:transform20
+    400408: Model_AvatarMale:transform21
+    400410: Model_AvatarMale:transform22
+    400412: Model_AvatarMale:transform23
+    400414: Model_AvatarMale:transform24
+    400416: Model_AvatarMale:transform25
+    400418: Model_AvatarMale:transform26
+    400420: Model_AvatarMale:transform27
+    400422: Model_AvatarMale:transform28
+    400424: Model_AvatarMale:transform29
+    400426: Model_AvatarMale:transform30
+    400428: Model_AvatarMale:transform31
+    400430: Model_AvatarMale:transform32
+    400432: Model_AvatarMale:transform33
+    400434: Model_AvatarMale:transform34
+    400436: Model_AvatarMale:transform35
+    400438: Model_AvatarMale:transform36
+    400440: Model_AvatarMale:transform37
+    400442: Model_AvatarMale:transform38
+    400444: Model_AvatarMale:transform39
+    400446: Model_AvatarMale:transform40
+    400448: Model_AvatarMale:transform41
+    400450: Model_AvatarMale:transform42
+    400452: Model_AvatarMale:transform43
+    400454: Model_AvatarMale:transform44
+    400456: Model_AvatarMale:transform45
+    400458: Model_AvatarMale:transform46
+    400460: Model_AvatarMale:transform47
+    400462: Model_AvatarMale:transform48
+    400464: Model_AvatarMale:transform49
+    400466: Model_AvatarMale:transform50
+    400468: Model_AvatarMale:transform51
+    400470: Model_AvatarMale:transform52
+    400472: Model_AvatarMale:transform53
+    400474: Model_AvatarMale:transform54
+    400476: Model_AvatarMale:transform55
+    400478: Model_AvatarMale:transform56
+    400480: Model_AvatarMale:transform57
+    400482: Model_AvatarMale:transform58
+    400484: Model_AvatarMale:transform59
+    400486: Model_AvatarMale:transform60
+    400488: Model_AvatarMale:transform61
+    400490: Model_AvatarMale:transform62
+    400492: Model_AvatarMale:transform63
+    400494: Model_AvatarMale:transform64
+    400496: Model_AvatarMale:transform65
+    400498: Model_AvatarMale:transform66
+    400500: Model_AvatarMale:transform67
+    400502: Model_AvatarMale:transform68
+    400504: Model_AvatarMale:transform69
+    400506: Model_AvatarMale:transform70
+    400508: Model_AvatarMale:transform71
+    400510: Model_AvatarMale:transform72
+    400512: Model_AvatarMale:transform73
+    400514: Model_AvatarMale:transform74
+    400516: Model_AvatarMale:transform75
+    400518: Model_AvatarMale:transform76
+    400520: Model_AvatarMale:transform77
+    400522: Model_AvatarMale:transform78
+    400524: Model_AvatarMale:transform79
+    400526: Model_AvatarMale:transform80
+    400528: Model_AvatarMale:transform81
+    400530: Model_AvatarMale:transform82
+    400532: Model_AvatarMale:transform83
+    400534: Model_AvatarMale:transform84
+    400536: Model_AvatarMale:transform85
+    400538: Model_AvatarMale:transform86
+    400540: Model_AvatarMale:transform87
+    400542: Model_AvatarMale:transform88
+    400544: Model_AvatarMale:transform89
+    400546: Model_AvatarMale:transform90
+    400548: Model_AvatarMale:transform91
+    400550: Model_AvatarMale:transform92
+    400552: Model_AvatarMale:transform93
+    400554: Model_AvatarMale:transform94
+    400556: Model_AvatarMale:transform95
+    400558: Model_AvatarMale:transform96
+    400560: Model_AvatarMale:transform97
+    400562: Model_AvatarMale:transform98
+    400564: Model_AvatarMale:transform99
+    400566: neck
+    400568: right_ankle
+    400570: right_collarbone
+    400572: right_elbow_A
+    400574: right_elbow_B
+    400576: right_end_feet
+    400578: right_hand
+    400580: right_hips
+    400582: right_index_finger_A
+    400584: right_index_finger_B
+    400586: right_index_finger_C
+    400588: right_index_finger_D
+    400590: right_knee_A
+    400592: right_knee_B
+    400594: right_middle_feet
+    400596: right_middle_finger_A
+    400598: right_middle_finger_B
+    400600: right_middle_finger_C
+    400602: right_middle_finger_D
+    400604: right_pinky_A
+    400606: right_pinky_B
+    400608: right_pinky_C
+    400610: right_pinky_D
+    400612: right_RF_ankle
+    400614: right_RF_end_feet
+    400616: right_RF_heel
+    400618: right_RF_middle_feet
+    400620: right_ring_finger_A
+    400622: right_ring_finger_B
+    400624: right_ring_finger_C
+    400626: right_ring_finger_D
+    400628: right_shoulder
+    400630: right_thumb_A
+    400632: right_thumb_B
+    400634: right_thumb_C
+    400636: right_wrist
+    400638: ROOT
+    400640: Skeleton
+    400642: Surface
+    400644: top_neck
+    400646: waist
+    2100000: Model_AvatarMale_lambert2
+    4300000: Model_AvatarMale:polySurface136
+    9500000: //RootNode
+    13700000: Model_AvatarMale:polySurface136
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.15
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: ROOT
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_hips
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_hips
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_knee_A
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_knee_A
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: waist
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: belly
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: base_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_collarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_collarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_shoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_shoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_elbow_A
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_elbow_A
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_middle_feet
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_middle_feet
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_thumb_A
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_thumb_B
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_thumb_C
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_index_finger_A
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_index_finger_B
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_index_finger_C
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_middle_finger_A
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_middle_finger_B
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_middle_finger_C
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_ring_finger_A
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_ring_finger_B
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_ring_finger_C
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_pinky_A
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_pinky_B
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_pinky_C
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_thumb_A
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_thumb_B
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_thumb_C
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_index_finger_A
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_index_finger_B
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_index_finger_C
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_middle_finger_A
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_middle_finger_B
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_middle_finger_C
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_ring_finger_A
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_ring_finger_B
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_ring_finger_C
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_pinky_A
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_pinky_B
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_pinky_C
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: male_avatar(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton
+      parentName: male_avatar(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_RF_heel
+      parentName: Skeleton
+      position: {x: -0.10300472, y: 0.012613649, z: -0.111602716}
+      rotation: {x: 0.0045913127, y: 0.7070919, z: 0.0045913127, w: 0.7070919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_RF_end_feet
+      parentName: left_RF_heel
+      position: {x: -0.25145608, y: 0.0034757117, z: 0}
+      rotation: {x: -0.07600783, y: 0.99710727, z: 6.1055213e-17, w: -4.654137e-18}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_RF_middle_feet
+      parentName: left_RF_end_feet
+      position: {x: -0.11167093, y: -0.008570218, z: -1.6653346e-17}
+      rotation: {x: 0, y: 0, z: -0.12819748, w: 0.9917487}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_RF_ankle
+      parentName: left_RF_middle_feet
+      position: {x: -0.15458971, y: 0.03907671, z: 1.6653346e-17}
+      rotation: {x: -0.14818174, y: 0.69140595, z: 0.14818174, w: 0.69140595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_RF_heel
+      parentName: Skeleton
+      position: {x: 0.103004694, y: 0.01261365, z: -0.11160271}
+      rotation: {x: 0.0045913127, y: 0.7070919, z: 0.0045913127, w: 0.7070919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_RF_end_feet
+      parentName: right_RF_heel
+      position: {x: -0.251456, y: 0.0034757103, z: 4.9960035e-17}
+      rotation: {x: -0.07600783, y: 0.99710727, z: -1.9987262e-14, w: 1.5235956e-15}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_RF_middle_feet
+      parentName: right_RF_end_feet
+      position: {x: -0.11167085, y: -0.008570263, z: 5.495604e-16}
+      rotation: {x: 0, y: 0, z: -0.12819748, w: 0.9917487}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_RF_ankle
+      parentName: right_RF_middle_feet
+      position: {x: -0.15458976, y: 0.039076723, z: -1.3655742e-15}
+      rotation: {x: -0.14818174, y: 0.69140595, z: 0.14818174, w: 0.69140595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ROOT
+      parentName: Skeleton
+      position: {x: 0.0009353362, y: 1.2102276, z: -0.048785213}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: waist
+      parentName: ROOT
+      position: {x: -0.15, y: -3.3306692e-17, z: -1.4791143e-32}
+      rotation: {x: -4.429621e-17, y: -2.2455098e-16, z: 0.050192494, w: 0.99873954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: belly
+      parentName: waist
+      position: {x: -0.12407586, y: 0.004828492, z: -3.1743976e-17}
+      rotation: {x: -5.7738093e-17, y: 5.3191052e-17, z: 0.040956125, w: 0.99916095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chest
+      parentName: belly
+      position: {x: -0.1467195, y: -0.015138988, z: -2.8084807e-17}
+      rotation: {x: -2.7617116e-17, y: 2.7689106e-18, z: -0.09976052, w: 0.99501145}
+      scale: {x: 1, y: 1, z: 1}
+    - name: base_neck
+      parentName: chest
+      position: {x: -0.214495, y: 0.0022698713, z: -4.8379392e-17}
+      rotation: {x: -5.4940688e-17, y: 7.937797e-18, z: -0.14299464, w: 0.98972344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neck
+      parentName: base_neck
+      position: {x: -0.06316597, y: -3.528061e-18, z: -6.5146404e-18}
+      rotation: {x: 2.7753863e-17, y: 3.083e-19, z: 0.0111076785, w: 0.9999383}
+      scale: {x: 1, y: 1, z: 1}
+    - name: top_neck
+      parentName: neck
+      position: {x: -0.053389944, y: -2.0816682e-16, z: -1.0151917e-17}
+      rotation: {x: 0, y: 0, z: 0.10197316, w: 0.99478716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: top_neck
+      position: {x: -0.109800495, y: 0.001523556, z: -1.7357763e-17}
+      rotation: {x: 0.5220489, y: -0.47693285, z: -0.5220489, w: -0.47693285}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_collarbone
+      parentName: chest
+      position: {x: -0.09190714, y: 0.031918876, z: -0.102764964}
+      rotation: {x: 0.0071850503, y: 0.6461438, z: 0.021832079, w: 0.76286954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_shoulder
+      parentName: left_collarbone
+      position: {x: -0.287634, y: 0.0002607345, z: -0.03926502}
+      rotation: {x: 0.0319127, y: 0.5423189, z: 0.015989661, w: 0.8394142}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_elbow_A
+      parentName: left_shoulder
+      position: {x: -0.29655743, y: 2.3203898e-17, z: 1.8245137e-16}
+      rotation: {x: 1.4165612e-23, y: -3.2251067e-22, z: -0.043880615, w: 0.9990368}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_elbow_B
+      parentName: left_elbow_A
+      position: {x: -0.09870535, y: 3.17232e-17, z: -9.9158494e-17}
+      rotation: {x: 0, y: 0, z: -0.04137145, w: 0.99914384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_wrist
+      parentName: left_elbow_B
+      position: {x: -0.25976098, y: 3.3818997e-16, z: -5.723685e-18}
+      rotation: {x: 0.0011453358, y: -0.06251045, z: 0.07421181, w: 0.99528074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_hand
+      parentName: left_wrist
+      position: {x: -0.06281321, y: -3.785564e-18, z: -2.3535823e-17}
+      rotation: {x: -0.01810312, y: 0.025580745, z: -0.6222345, w: 0.7822034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_thumb_A
+      parentName: left_hand
+      position: {x: -0.05544856, y: 7.839156e-17, z: 9.768574e-17}
+      rotation: {x: 0.10805976, y: 0.056591067, z: 0.45188493, w: 0.8836971}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_thumb_B
+      parentName: left_thumb_A
+      position: {x: -0.034026664, y: 5.0202174e-17, z: -8.230812e-17}
+      rotation: {x: 0.011007056, y: -0.033814605, z: 0.027459385, w: 0.99899024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_thumb_C
+      parentName: left_thumb_B
+      position: {x: -0.038373724, y: -7.790785e-17, z: 2.3109716e-17}
+      rotation: {x: -0.6939832, y: -0.014730948, z: -0.05711357, w: 0.7175712}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_index_finger_A
+      parentName: left_hand
+      position: {x: -0.046029374, y: -0.052792385, z: 0.00003664656}
+      rotation: {x: -0.016600253, y: 0.022114135, z: 0.6001095, w: 0.79943985}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_index_finger_B
+      parentName: left_index_finger_A
+      position: {x: -0.034919575, y: 1.2466662e-17, z: -1.4707712e-16}
+      rotation: {x: 0, y: 0.020687927, z: -0, w: 0.999786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_index_finger_C
+      parentName: left_index_finger_B
+      position: {x: -0.027101442, y: 1.6548755e-16, z: 8.2743777e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_index_finger_D
+      parentName: left_index_finger_C
+      position: {x: -0.032900248, y: -2.6827982e-16, z: -2.5776983e-30}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_middle_finger_A
+      parentName: left_hand
+      position: {x: -0.021919928, y: -0.06623537, z: -0.00031074567}
+      rotation: {x: 0.025212832, y: -0.03221306, z: 0.5835971, w: 0.8110124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_middle_finger_B
+      parentName: left_middle_finger_A
+      position: {x: -0.035482023, y: -8.103766e-18, z: 9.2893415e-17}
+      rotation: {x: -0.0046807225, y: 0.13299634, z: 0.0051171225, w: 0.99109226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_middle_finger_C
+      parentName: left_middle_finger_B
+      position: {x: -0.027220001, y: -1.20137925e-17, z: -7.1536906e-19}
+      rotation: {x: 0.003020246, y: -0.036866553, z: -0.051665977, w: 0.99797916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_middle_finger_D
+      parentName: left_middle_finger_C
+      position: {x: -0.033198915, y: -1.7641954e-17, z: -1.7235188e-16}
+      rotation: {x: -0.70517445, y: -0.052240312, z: 0.042061657, w: 0.7058547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_ring_finger_A
+      parentName: left_hand
+      position: {x: 0.00019354613, y: -0.06623157, z: 0.00003664656}
+      rotation: {x: -0.016715724, y: 0.023400618, z: 0.6188252, w: 0.7850022}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_ring_finger_B
+      parentName: left_ring_finger_A
+      position: {x: -0.03693316, y: -1.7075433e-17, z: 3.4783143e-18}
+      rotation: {x: 0.0006307461, y: 0.019571325, z: -0.015074129, w: 0.99969465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_ring_finger_C
+      parentName: left_ring_finger_B
+      position: {x: -0.02725041, y: 2.137776e-18, z: 1.5584113e-16}
+      rotation: {x: 0, y: 0, z: -0.02577573, w: 0.99966776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_ring_finger_D
+      parentName: left_ring_finger_C
+      position: {x: -0.027264211, y: 1.9527584e-17, z: -2.1641493e-18}
+      rotation: {x: -0.7070021, y: -0.012167944, z: 0.012167944, w: 0.7070021}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_pinky_A
+      parentName: left_hand
+      position: {x: 0.023925243, y: -0.065513104, z: 0.00044803694}
+      rotation: {x: 0.006319886, y: -0.009335576, z: 0.6386148, w: 0.76944405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_pinky_B
+      parentName: left_pinky_A
+      position: {x: -0.031777903, y: 2.0901885e-17, z: 7.924375e-17}
+      rotation: {x: 0.013662376, y: 0.14311153, z: -0.0024452696, w: 0.98960924}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_pinky_C
+      parentName: left_pinky_B
+      position: {x: -0.021860177, y: -1.6695698e-17, z: -1.3126732e-16}
+      rotation: {x: -0.014247911, y: -0.1492189, z: 0.0024593454, w: 0.9886985}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_pinky_D
+      parentName: left_pinky_C
+      position: {x: -0.022880226, y: 4.239509e-17, z: 1.2862039e-16}
+      rotation: {x: -0.70630324, y: 0.04659261, z: 0.046496257, w: 0.70484257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_collarbone
+      parentName: chest
+      position: {x: -0.09190373, y: 0.031918883, z: 0.102764934}
+      rotation: {x: -0.0071847104, y: -0.6461314, z: 0.021832142, w: 0.76288}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_shoulder
+      parentName: right_collarbone
+      position: {x: -0.2876369, y: 0.00026078115, z: 0.03926481}
+      rotation: {x: -0.031993885, y: -0.54233766, z: 0.015936421, w: 0.8394}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_elbow_A
+      parentName: right_shoulder
+      position: {x: -0.29656664, y: 6.4832423e-18, z: -7.016811e-17}
+      rotation: {x: -1.9627718e-19, y: 0.000030381254, z: -0.043879595, w: 0.99903685}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_elbow_B
+      parentName: right_elbow_A
+      position: {x: -0.098701045, y: 4.351622e-17, z: 7.660718e-17}
+      rotation: {x: -1.1126833e-21, y: -0.000017466398, z: -0.041371413, w: 0.99914384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_wrist
+      parentName: right_elbow_B
+      position: {x: -0.2597602, y: 2.2370328e-16, z: -3.16993e-17}
+      rotation: {x: -0.0008202878, y: 0.06250785, z: 0.0742322, w: 0.9952797}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_hand
+      parentName: right_wrist
+      position: {x: -0.06281379, y: -3.3046838e-17, z: -1.930364e-17}
+      rotation: {x: 0.018092081, y: -0.025565077, z: -0.6222358, w: 0.78220314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_thumb_A
+      parentName: right_hand
+      position: {x: -0.055448607, y: -7.497537e-17, z: -3.2007692e-16}
+      rotation: {x: -0.12412026, y: -0.064825036, z: 0.45077938, w: 0.88158375}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_thumb_B
+      parentName: right_thumb_A
+      position: {x: -0.03402669, y: -6.722613e-17, z: -6.610023e-17}
+      rotation: {x: -0.011013193, y: 0.033833843, z: 0.027460743, w: 0.99898946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_thumb_C
+      parentName: right_thumb_B
+      position: {x: -0.038374305, y: -4.105623e-17, z: 2.2089328e-16}
+      rotation: {x: -0.35230088, y: -0.45363653, z: -0.48403844, w: 0.6601551}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_index_finger_A
+      parentName: right_hand
+      position: {x: -0.04602932, y: -0.05279241, z: -0.00003740583}
+      rotation: {x: 0.016615096, y: -0.022133853, z: 0.60011005, w: 0.79943854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_index_finger_B
+      parentName: right_index_finger_A
+      position: {x: -0.034919493, y: -1.3487018e-17, z: -4.8527563e-17}
+      rotation: {x: 0, y: -0.020663394, z: -0, w: 0.9997865}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_index_finger_C
+      parentName: right_index_finger_B
+      position: {x: -0.027101357, y: 3.181622e-16, z: -1.9151346e-16}
+      rotation: {x: 0, y: -0.00001564898, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_index_finger_D
+      parentName: right_index_finger_C
+      position: {x: -0.032900475, y: 4.1777714e-16, z: -3.0327825e-14}
+      rotation: {x: -0.60150373, y: -0.37174356, z: -0.37174356, w: 0.60150373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_middle_finger_A
+      parentName: right_hand
+      position: {x: -0.021919714, y: -0.06623535, z: 0.00030890218}
+      rotation: {x: -0.02521281, y: 0.032212865, z: 0.58359694, w: 0.8110125}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_middle_finger_B
+      parentName: right_middle_finger_A
+      position: {x: -0.035481896, y: -2.3501508e-17, z: 1.3853972e-17}
+      rotation: {x: 0.004681526, y: -0.13301808, z: 0.0051194755, w: 0.99108934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_middle_finger_C
+      parentName: right_middle_finger_B
+      position: {x: -0.027220763, y: -6.7819364e-18, z: 1.8586506e-16}
+      rotation: {x: -0.0030214153, y: 0.03688102, z: -0.051667616, w: 0.9979785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_middle_finger_D
+      parentName: right_middle_finger_C
+      position: {x: -0.033198826, y: 1.1416333e-18, z: 2.883095e-16}
+      rotation: {x: -0.5783222, y: -0.40687034, z: -0.32629395, w: 0.6273215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_ring_finger_A
+      parentName: right_hand
+      position: {x: 0.00019373637, y: -0.06623151, z: -0.00003740583}
+      rotation: {x: 0.016725352, y: -0.023413992, z: 0.6188252, w: 0.78500164}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_ring_finger_B
+      parentName: right_ring_finger_A
+      position: {x: -0.036932737, y: -3.7466927e-17, z: 3.1749336e-17}
+      rotation: {x: -0.0006304469, y: -0.019562008, z: -0.015072327, w: 0.9996948}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_ring_finger_C
+      parentName: right_ring_finger_B
+      position: {x: -0.027251484, y: -3.8512295e-17, z: -3.3367166e-17}
+      rotation: {x: 0, y: 0, z: -0.025778126, w: 0.9996677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_ring_finger_D
+      parentName: right_ring_finger_C
+      position: {x: -0.02726363, y: 4.5216518e-17, z: 2.118426e-16}
+      rotation: {x: -0.5950138, y: -0.38204524, z: -0.36134216, w: 0.60780907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_pinky_A
+      parentName: right_hand
+      position: {x: 0.02392558, y: -0.065512404, z: -0.000448592}
+      rotation: {x: -0.006315308, y: 0.00932874, z: 0.6386138, w: 0.76944494}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_pinky_B
+      parentName: right_pinky_A
+      position: {x: -0.03177896, y: 1.2778784e-18, z: -6.444027e-17}
+      rotation: {x: -0.013662745, y: -0.14312264, z: -0.0024450414, w: 0.98960763}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_pinky_C
+      parentName: right_pinky_B
+      position: {x: -0.021860763, y: -6.605779e-18, z: -9.4645906e-17}
+      rotation: {x: 0.014249252, y: 0.14923188, z: 0.0024645233, w: 0.9886965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_pinky_D
+      parentName: right_pinky_C
+      position: {x: -0.022880003, y: 1.9042268e-17, z: 1.396937e-16}
+      rotation: {x: -0.61966515, y: -0.40498018, z: -0.41172352, w: 0.5314978}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_hips
+      parentName: ROOT
+      position: {x: 0.056973398, y: -0.052894123, z: 0.103940055}
+      rotation: {x: -0.056892145, y: 0.99838036, z: -0.000000012887292, w: -6.7174144e-10}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_knee_A
+      parentName: left_hips
+      position: {x: -0.481404, y: -5.262262e-16, z: 1.2458624e-16}
+      rotation: {x: -1.01556154e-23, y: -7.151168e-23, z: 0.14874975, w: 0.9888749}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_knee_B
+      parentName: left_knee_A
+      position: {x: -0.15677015, y: 1.004718e-17, z: 3.2840537e-16}
+      rotation: {x: 0, y: 0, z: -0.06618953, w: 0.9978071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_ankle
+      parentName: left_knee_B
+      position: {x: -0.3996845, y: 9.433394e-17, z: 2.8600782e-16}
+      rotation: {x: -0.000000008046159, y: 0.000000004154415, z: -0.4587788, w: 0.8885505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_middle_feet
+      parentName: left_ankle
+      position: {x: -0.15945208, y: 8.8513686e-17, z: -4.4624623e-16}
+      rotation: {x: -0.0000000024705749, y: 7.389843e-10, z: -0.28656936, w: 0.95805955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_end_feet
+      parentName: left_middle_feet
+      position: {x: -0.11199932, y: 1.6042599e-17, z: -7.2999375e-16}
+      rotation: {x: -0.06498127, y: -0.7041147, z: -0.06498127, w: 0.7041147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_hips
+      parentName: ROOT
+      position: {x: 0.05697373, y: -0.05289408, z: -0.10394001}
+      rotation: {x: -0.056892183, y: 0.99838036, z: 0.000000012887288, w: 6.717425e-10}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_knee_A
+      parentName: right_hips
+      position: {x: -0.48140332, y: -1.373901e-16, z: 1.6555304e-16}
+      rotation: {x: 0, y: 0, z: 0.14874935, w: 0.988875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_knee_B
+      parentName: right_knee_A
+      position: {x: -0.15677069, y: 5.8662564e-17, z: 3.0030696e-16}
+      rotation: {x: 0, y: 0, z: -0.06618905, w: 0.9978071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_ankle
+      parentName: right_knee_B
+      position: {x: -0.3996843, y: -3.5889507e-17, z: 4.839692e-16}
+      rotation: {x: 0.000000008046148, y: -0.000000004154409, z: -0.4587788, w: 0.8885505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_middle_feet
+      parentName: right_ankle
+      position: {x: -0.15945211, y: 1.0493964e-18, z: -6.138846e-16}
+      rotation: {x: 0.0000000024705693, y: -7.389834e-10, z: -0.2865696, w: 0.95805943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_end_feet
+      parentName: right_middle_feet
+      position: {x: -0.111999236, y: -8.326673e-18, z: -6.5232183e-16}
+      rotation: {x: -0.06498111, y: -0.7041147, z: -0.06498111, w: 0.7041147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Surface
+      parentName: male_avatar(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface136
+      parentName: Surface
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:pSphere2
+      parentName: Surface
+      position: {x: -0, y: 1.0854061, z: -0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface131
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform127
+      parentName: Model_AvatarMale:polySurface131
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface132
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform124
+      parentName: Model_AvatarMale:polySurface132
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface133
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform126
+      parentName: Model_AvatarMale:polySurface133
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface134
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform125
+      parentName: Model_AvatarMale:polySurface134
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface135
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform123
+      parentName: Model_AvatarMale:polySurface135
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface136 1
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform133
+      parentName: Model_AvatarMale:polySurface136 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface137
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform129
+      parentName: Model_AvatarMale:polySurface137
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface138
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform132
+      parentName: Model_AvatarMale:polySurface138
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface139
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform128
+      parentName: Model_AvatarMale:polySurface139
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface140
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform130
+      parentName: Model_AvatarMale:polySurface140
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface141
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform131
+      parentName: Model_AvatarMale:polySurface141
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface142
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform117
+      parentName: Model_AvatarMale:polySurface142
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface143
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform118
+      parentName: Model_AvatarMale:polySurface143
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface144
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform119
+      parentName: Model_AvatarMale:polySurface144
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface145
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform120
+      parentName: Model_AvatarMale:polySurface145
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface146
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform121
+      parentName: Model_AvatarMale:polySurface146
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface147
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform122
+      parentName: Model_AvatarMale:polySurface147
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform116
+      parentName: Model_AvatarMale:pSphere2
+      position: {x: -0, y: -1.0854061, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:pSphere1
+      parentName: Surface
+      position: {x: -0, y: 2.0719824, z: -0.03424778}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+      scale: {x: 0.8917905, y: 0.6957692, z: 0.9106426}
+    - name: Model_AvatarMale:transform115
+      parentName: Model_AvatarMale:pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface113
+      parentName: Surface
+      position: {x: -0, y: 1.080962, z: -0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface114
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform99
+      parentName: Model_AvatarMale:polySurface114
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface115
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform101
+      parentName: Model_AvatarMale:polySurface115
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface116
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform100
+      parentName: Model_AvatarMale:polySurface116
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface117
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform102
+      parentName: Model_AvatarMale:polySurface117
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface118
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform103
+      parentName: Model_AvatarMale:polySurface118
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface119
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform104
+      parentName: Model_AvatarMale:polySurface119
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface120
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform105
+      parentName: Model_AvatarMale:polySurface120
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface121
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform106
+      parentName: Model_AvatarMale:polySurface121
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface122
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform107
+      parentName: Model_AvatarMale:polySurface122
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface123
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform108
+      parentName: Model_AvatarMale:polySurface123
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface124
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform109
+      parentName: Model_AvatarMale:polySurface124
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface125
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform110
+      parentName: Model_AvatarMale:polySurface125
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface126
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform111
+      parentName: Model_AvatarMale:polySurface126
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface127
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform112
+      parentName: Model_AvatarMale:polySurface127
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface129
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform113
+      parentName: Model_AvatarMale:polySurface129
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface130
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform114
+      parentName: Model_AvatarMale:polySurface130
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform98
+      parentName: Model_AvatarMale:polySurface113
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface96
+      parentName: Surface
+      position: {x: -0, y: 1.080962, z: -0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface97
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform83
+      parentName: Model_AvatarMale:polySurface97
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface98
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform81
+      parentName: Model_AvatarMale:polySurface98
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface99
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform82
+      parentName: Model_AvatarMale:polySurface99
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface100
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform84
+      parentName: Model_AvatarMale:polySurface100
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface101
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform85
+      parentName: Model_AvatarMale:polySurface101
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface102
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform86
+      parentName: Model_AvatarMale:polySurface102
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface103
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform87
+      parentName: Model_AvatarMale:polySurface103
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface104
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform88
+      parentName: Model_AvatarMale:polySurface104
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface105
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform89
+      parentName: Model_AvatarMale:polySurface105
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface106
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform90
+      parentName: Model_AvatarMale:polySurface106
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface107
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform91
+      parentName: Model_AvatarMale:polySurface107
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface108
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform92
+      parentName: Model_AvatarMale:polySurface108
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface109
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform93
+      parentName: Model_AvatarMale:polySurface109
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface110
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform94
+      parentName: Model_AvatarMale:polySurface110
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface111
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform95
+      parentName: Model_AvatarMale:polySurface111
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface112
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform96
+      parentName: Model_AvatarMale:polySurface112
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface113 1
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform97
+      parentName: Model_AvatarMale:polySurface113 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform80
+      parentName: Model_AvatarMale:polySurface96
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface58
+      parentName: Surface
+      position: {x: -0, y: 1.080962, z: -0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface75
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform64
+      parentName: Model_AvatarMale:polySurface75
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface76
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform63
+      parentName: Model_AvatarMale:polySurface76
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface77
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform65
+      parentName: Model_AvatarMale:polySurface77
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface78
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform66
+      parentName: Model_AvatarMale:polySurface78
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface79
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform67
+      parentName: Model_AvatarMale:polySurface79
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface80
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform68
+      parentName: Model_AvatarMale:polySurface80
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface81
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform69
+      parentName: Model_AvatarMale:polySurface81
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface82
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform70
+      parentName: Model_AvatarMale:polySurface82
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface83
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform71
+      parentName: Model_AvatarMale:polySurface83
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface84
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform72
+      parentName: Model_AvatarMale:polySurface84
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface85
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform73
+      parentName: Model_AvatarMale:polySurface85
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface86
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform74
+      parentName: Model_AvatarMale:polySurface86
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface87
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform75
+      parentName: Model_AvatarMale:polySurface87
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface88
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform76
+      parentName: Model_AvatarMale:polySurface88
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface94
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform77
+      parentName: Model_AvatarMale:polySurface94
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface95
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform78
+      parentName: Model_AvatarMale:polySurface95
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface96 1
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform79
+      parentName: Model_AvatarMale:polySurface96 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform62
+      parentName: Model_AvatarMale:polySurface58
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface52
+      parentName: Surface
+      position: {x: -0, y: 1.080962, z: -0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface53
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform56
+      parentName: Model_AvatarMale:polySurface53
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface54
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform57
+      parentName: Model_AvatarMale:polySurface54
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface55
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform58
+      parentName: Model_AvatarMale:polySurface55
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface56
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform59
+      parentName: Model_AvatarMale:polySurface56
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface57
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform60
+      parentName: Model_AvatarMale:polySurface57
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface58 1
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform61
+      parentName: Model_AvatarMale:polySurface58 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface59
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform40
+      parentName: Model_AvatarMale:polySurface59
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface60
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform41
+      parentName: Model_AvatarMale:polySurface60
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface61
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform42
+      parentName: Model_AvatarMale:polySurface61
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface62
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform43
+      parentName: Model_AvatarMale:polySurface62
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface63
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform44
+      parentName: Model_AvatarMale:polySurface63
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface64
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform45
+      parentName: Model_AvatarMale:polySurface64
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface65
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform46
+      parentName: Model_AvatarMale:polySurface65
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface66
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform47
+      parentName: Model_AvatarMale:polySurface66
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface67
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform48
+      parentName: Model_AvatarMale:polySurface67
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface68
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform49
+      parentName: Model_AvatarMale:polySurface68
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface69
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform50
+      parentName: Model_AvatarMale:polySurface69
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface70
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform51
+      parentName: Model_AvatarMale:polySurface70
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface71
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform52
+      parentName: Model_AvatarMale:polySurface71
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface72
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform53
+      parentName: Model_AvatarMale:polySurface72
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface73
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform54
+      parentName: Model_AvatarMale:polySurface73
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface74
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform55
+      parentName: Model_AvatarMale:polySurface74
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform39
+      parentName: Model_AvatarMale:polySurface52
+      position: {x: -0, y: -1.080962, z: 0.03259137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface31
+      parentName: Surface
+      position: {x: 0.0012971521, y: 0.22279926, z: -0.009086315}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform38
+      parentName: Model_AvatarMale:polySurface31
+      position: {x: -0.0012971521, y: -0.22279926, z: 0.009086315}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface48
+      parentName: Surface
+      position: {x: -0, y: 1.2506431, z: -0.064607404}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform36
+      parentName: Model_AvatarMale:polySurface48
+      position: {x: -0, y: -1.2506431, z: 0.064607404}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface32
+      parentName: Surface
+      position: {x: 0.001042047, y: 0.7307355, z: -0.10429324}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform37
+      parentName: Model_AvatarMale:polySurface32
+      position: {x: -0.001042047, y: -0.7307355, z: 0.10429324}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface29
+      parentName: Surface
+      position: {x: -0, y: 1.0846232, z: -0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface30
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform18
+      parentName: Model_AvatarMale:polySurface30
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface31 1
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform19
+      parentName: Model_AvatarMale:polySurface31 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface32 1
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform15
+      parentName: Model_AvatarMale:polySurface32 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface33
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform14
+      parentName: Model_AvatarMale:polySurface33
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface34
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform20
+      parentName: Model_AvatarMale:polySurface34
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface35
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform21
+      parentName: Model_AvatarMale:polySurface35
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface36
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform22
+      parentName: Model_AvatarMale:polySurface36
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface37
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform23
+      parentName: Model_AvatarMale:polySurface37
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface38
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform24
+      parentName: Model_AvatarMale:polySurface38
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface39
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform25
+      parentName: Model_AvatarMale:polySurface39
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface40
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform26
+      parentName: Model_AvatarMale:polySurface40
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface41
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform27
+      parentName: Model_AvatarMale:polySurface41
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface42
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform28
+      parentName: Model_AvatarMale:polySurface42
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface43
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform29
+      parentName: Model_AvatarMale:polySurface43
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface44
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform30
+      parentName: Model_AvatarMale:polySurface44
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface45
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform31
+      parentName: Model_AvatarMale:polySurface45
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface46
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform32
+      parentName: Model_AvatarMale:polySurface46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface47
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform16
+      parentName: Model_AvatarMale:polySurface47
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface48 1
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform17
+      parentName: Model_AvatarMale:polySurface48 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface49
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform33
+      parentName: Model_AvatarMale:polySurface49
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface50
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform34
+      parentName: Model_AvatarMale:polySurface50
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:polySurface51
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform35
+      parentName: Model_AvatarMale:polySurface51
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model_AvatarMale:transform13
+      parentName: Model_AvatarMale:polySurface29
+      position: {x: -0, y: -1.0846232, z: 0.050221987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
