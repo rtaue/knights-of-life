@@ -43,5 +43,5 @@ Knights of Life gameplay video: https://youtu.be/shLNLns6rf8
 Link to download: https://drive.google.com/open?id=1cmACU0Nof5XCZacWahQSVV442zzM9xkZ
 
 ## Authors
-- **Rafael Taue** - Game Designer, Programmer and Rigging - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.carbonmade.com/) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
+- **Rafael Taue** - Game Designer, Programmer and Rigging - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.com) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
 - **Laís Rodrigues** - Game Designer, Artist, 3D Models and Animations - [ArtStation](https://www.artstation.com/marim) - [LinkedIn](https://www.linkedin.com/in/la%C3%ADs-rodrigues-548261149/)
